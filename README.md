@@ -1,2 +1,5 @@
 # CASCaDE-Coordination
-An environment to keep issues, decisions and other documentation for the coordination of the CASCaDE submission team. CASCaDE is a project to standardize such collaboration in terms of data format and ontology.
+An environment to keep issues, decisions and other documentation for the coordination of the CASCaDE submission team.
+CASCaDE is a project to standardize such collaboration in terms of data format and ontology.
+
+The work-package 0 (WP-0) lead by Uwe Kaufmann is responsible for the content.
